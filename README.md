@@ -18,8 +18,17 @@ multibox layers	feature map size	anchor size	aspect ratio）
 
 # the change 
 * As this open source software is only able to detect if a mask is being worn, but as I mentioned earlier, we would prefer to build a software that can do the persuasion function, so I have modified some of the code so that it can give timely persuasion when someone is not wearing a mask.
-![image](https://user-images.githubusercontent.com/92298865/165655380-32db7f35-c05e-4fb2-b166-a7d2019a6915.png)
-<img width="245" alt="image" src="https://user-images.githubusercontent.com/92298865/165717912-82b7fa97-ecb9-4a9c-a205-6e0ff5daa039.png">
+class PlayMusic:
+    def __init__(self):
+        pygame.mixer.init()
+        pygame.mixer.music.load('please_wear_mask.wav')
+        pygame.mixer.music.set_volume(0.5)
 
+    def play_music(self):
+        if not pygame.mixer.music.get_busy():
+            pygame.mixer.music.play()
+    if class_id == 1:
+    player.play_music()
+    player = PlayMusic()
 * This open source material builds a website where you can more quickly log in with your mobile or computer device and authorise the current device's camera for recognition. But I would prefer that the site could link to other devices' cameras so that we could get the data even from a remote location (possibly elsewhere in the office, where we can also see the hall)
 * This need to connected with the api
