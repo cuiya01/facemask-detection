@@ -27,10 +27,13 @@ https://demo.aizoo.com/face-mask-detection.html
 ## the change 
 * As this open source software is only able to detect if a mask is being worn, but as I mentioned earlier, we would prefer to build a software that can do the persuasion function, so I have modified some of the code so that it can give timely persuasion when someone is not wearing a mask.
 <img width="449" alt="image" src="https://user-images.githubusercontent.com/92298865/165718598-d96c388a-e51b-4af7-b4bb-cd8d723b3292.png">
-## difficutly
+## Difficutly
 * This material builds a website where you can more quickly log in with your mobile or computer device and authorise the current device's camera for recognition. But I would prefer that the site could link to other devices' cameras so that we could get the data even from a remote location (possibly elsewhere in the office, where we can also see the lobby)
 * This need to connected with the api
 * *（It is worth noting that there is no need to add the "please waring masks" voice to the web page, as we would prefer to view it remotely when using the web））
+## In fruture
+* Enables websites to connect directly to other devices
+* Make data connections to mqtt and grafana so that managers can not only see lobby videos, but also have easier access to visual data
 ## video
 https://user-images.githubusercontent.com/92298865/165721681-126e3968-d768-44ed-93f2-3c3d17599120.mp4
 
