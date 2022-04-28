@@ -18,7 +18,8 @@ multibox layers	feature map size	anchor size	aspect ratio）
 <img width="253" alt="image" src="https://user-images.githubusercontent.com/92298865/165718756-8258cd0b-c606-4b2f-ac2d-0b3ca0bbcae9.png">
 ## The Webpage
 https://demo.aizoo.com/face-mask-detection.html
-![image](https://user-images.githubusercontent.com/92298865/165725546-6b780371-dca4-4d0b-ac0a-6e78bd1f6a75.png)
+
+![1021651140443_ pic](https://user-images.githubusercontent.com/92298865/165729773-4256ce9a-cd0b-471e-a552-3b016c11d3e0.jpg)
 
 ## The Challenge
 * How to enable the system to play the voice of the mask being worn
