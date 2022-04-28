@@ -23,3 +23,4 @@ multibox layers	feature map size	anchor size	aspect ratio）
 # difficutly
 * This material builds a website where you can more quickly log in with your mobile or computer device and authorise the current device's camera for recognition. But I would prefer that the site could link to other devices' cameras so that we could get the data even from a remote location (possibly elsewhere in the office, where we can also see the lobby)
 * This need to connected with the api
+* （It is worth noting that there is no need to add the "please waring masks" voice to the web page, as we would prefer to view it remotely when using the web）
