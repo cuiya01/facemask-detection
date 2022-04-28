@@ -40,7 +40,9 @@ https://demo.aizoo.com/face-mask-detection.html
 
 
 
-https://user-images.githubusercontent.com/92298865/165732128-3592c8e8-5cc6-4d09-94a8-f21c856cd6a0.mp4
+
+
+https://user-images.githubusercontent.com/92298865/165735814-5dcdaff1-e3ab-42e5-afa7-1d2ef7c03a3d.mp4
 
 
 
