@@ -36,6 +36,10 @@ https://demo.aizoo.com/face-mask-detection.html
 * Enables websites to connect directly to other devices
 * Make data connections to mqtt and grafana so that managers can not only see lobby videos, but also have easier access to visual data
 ## video
-https://user-images.githubusercontent.com/92298865/165721681-126e3968-d768-44ed-93f2-3c3d17599120.mp4
+
+
+
+https://user-images.githubusercontent.com/92298865/165732128-3592c8e8-5cc6-4d09-94a8-f21c856cd6a0.mp4
+
 
 
