@@ -1,6 +1,6 @@
 # facemask-detection
 ## Data
-this open resource model published 7971 images to train the models. The dataset is composed of WIDER Face and MAFA, we verified some wrong annotations. You can download here from Google drive, if you can not visit Google, you can download it from BaiduDisk, click here to know how to download.
+this model published 7971 images to train the models. The dataset is composed of WIDER Face and MAFA, we verified some wrong annotations. You can download here from Google drive, if you can not visit Google, you can download it from BaiduDisk, click here to know how to download.
 
 ## Model structure
 We used the structure of SSD. However, in order to make it run quickly in the browser, the backbone network is lite. The total model only has 1.01M parametes.
